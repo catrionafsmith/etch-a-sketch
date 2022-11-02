@@ -24,14 +24,17 @@ button {
 
 .container {
     display: inline-grid;
+    background-image: url("kitten.png");
   }
   
 .box {
     aspect-ratio: 1 / 1;
     background-color: antiquewhite;
+    /* opacity: 1; */
 }
 
 .hov_col {
     /* background-color: darkgreen; */
     aspect-ratio: 1 / 1;
+    /* opacity: 0.1; */
 } 
